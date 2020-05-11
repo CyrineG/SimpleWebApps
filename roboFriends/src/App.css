@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Chewy Inside';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Chewy Inside'), url('./Chewy \Inside.ttf'), format('ttf');
+}
+
+h1 {
+	font-family: 'Chewy Inside';
+	font-size: 36;
+}
